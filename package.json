@@ -1,0 +1,23 @@
+{
+  "name": "NodeJSMasters",
+  "version": "1.0.0",
+  "description": "Node.Js Magenic Masters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoB-magenic/NodeJSMasters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojoB-magenic/NodeJSMasters/issues"
+  },
+  "homepage": "https://github.com/jojoB-magenic/NodeJSMasters#readme",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
