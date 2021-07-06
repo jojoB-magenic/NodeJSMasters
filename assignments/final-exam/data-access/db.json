@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "6f87ab73-b1bd-4354-b1af-139013cdc4c1",
+      "username": "jojob",
+      "emailAddress": "jojob@magenic.com",
+      "firstName": "jojo",
+      "lastName": "balbarona"
+    },
+    {
+      "id": "e5784b0a-03a8-4c62-94a0-2205c44d8c1a",
+      "username": "jojo,balbarona.optum",
+      "emailAddress": "jojo.balbarona@optum.com",
+      "firstName": "jojo",
+      "lastName": "balbarona"
+    },
+    {
+      "id": "1f47e117-9305-4506-bf92-1b6a1626c20b",
+      "username": "jojo,balbarona.fiserv",
+      "emailAddress": "jojo.balbarona@fiserv.com",
+      "firstName": "jojo",
+      "lastName": "balbarona"
+    }
+  ]
+}
